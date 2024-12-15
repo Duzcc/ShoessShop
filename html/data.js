@@ -1,7 +1,7 @@
 const data = [
     {
         name: "Plotum Sneakers, Beige",
-        image: "images/a1.jfif.png",
+        image: "./images/a1.jfif.png",
         tag: "-$20",
         type: "men",
         oldPrice: "$540.00",
@@ -9,7 +9,7 @@ const data = [
     },
     {
         name: "MLB BOSTON",
-        image: "images/a2.jpg",
+        image: "./images/a2.jpg",
         tag: "new",
         type: "woman",
         oldPrice: "$610.00",
@@ -17,7 +17,7 @@ const data = [
     },
     {
         name: "MLB CHUNKY JOGGER NEW YORK YANKEES 'IVORY",
-        image: "images/a5.jpg",
+        image: "./images/a5.jpg",
         tag: "sale",
         type: "woman",
         oldPrice: "$120.00",
@@ -25,7 +25,7 @@ const data = [
     },
     {
         name: "MLB NY VINTAGE",
-        image: "images/a6.jpg",
+        image: "./images/a6.jpg",
         tag: "new",
         type: "woman",
         oldPrice: "$410.00",
@@ -33,7 +33,7 @@ const data = [
     },
     {
         name: "1970S WHITE LOW",
-        image: "images/a3.jpg",
+        image: "./images/a3.jpg",
         tag: "sale",
         type: "men",
         oldPrice: "$180.00",
@@ -41,7 +41,7 @@ const data = [
     },
     {
         name: "1970S BLACK LOW",
-        image: "images/a6.jfif.png",
+        image: "./images/a6.jfif.png",
         tag: "-$20",
         type: "men",
         oldPrice: "$700.00",
@@ -49,7 +49,7 @@ const data = [
     },
     {
         name: "VANS VAULT STYLE 36 - BLUE",
-        image: "images/a4.jpg",
+        image: "./images/a4.jpg",
         tag: "sale",
         type: "woman",
         oldPrice: "$610.00",
@@ -57,7 +57,7 @@ const data = [
     },
     {
         name: "DUNK LOW 'COAST'",
-        image: "images/a8.jpg",
+        image: "./images/a8.jpg",
         tag: "sale",
         type: "woman",
         oldPrice: "$120.00",
@@ -65,7 +65,7 @@ const data = [
     },
     {
         name: "AIR JORDAN 1 RETRO HIGH OG 'SHADOW' 2018",
-        image: "images/a9.jpg",
+        image: "./images/a9.jpg",
         tag: "new",
         type: "men",
         oldPrice: "$410.00",
@@ -73,7 +73,7 @@ const data = [
     },
     {
         name: "STAN SMITH HOLOGRAM",
-        image: "images/a10.jfif.png",
+        image: "./images/a10.jfif.png",
         tag: "new",
         type: "men",
         oldPrice: "$180.00",
@@ -81,14 +81,14 @@ const data = [
     },
     {
         name: "STAN SMITH HOLOGRAM",
-        image: "images/a10.jfif.png",
+        image: "./images/a10.jfif.png",
         tag: "new",
         type: "unisex",
         oldPrice: "$180.00",
         newPrice: ""
     }, {
         name: "STAN SMITH HOLOGRAM",
-        image: "images/a10.jfif.png",
+        image: "./images/a10.jfif.png",
         tag: "new",
         type: "unisex",
         oldPrice: "$180.00",
@@ -96,7 +96,7 @@ const data = [
     },
     {
         name: "RUN STAR HIKE PLATFORM SNEAKER",
-        image: "images/women.jpg",
+        image: "./images/women.jpg",
         tag: "sale",
         type: "woman",
         oldPrice: "$580.00",
@@ -104,7 +104,7 @@ const data = [
     },
     {
         name: "NIKE JORDANS MOCHA",
-        image: "images/new.jpg",
+        image: "./images/new.jpg",
         tag: "new",
         type: "men",
         oldPrice: "$340.00",
@@ -112,7 +112,7 @@ const data = [
     },
     {
         name: "CONVERSE HIGH TOPS",
-        image: "images/new1.jpg",
+        image: "./images/new1.jpg",
         tag: "new",
         type: "woman",
         oldPrice: "$100.00",
@@ -120,7 +120,7 @@ const data = [
     },
     {
         name: "WHITE JORDANS",
-        image: "images/new2.jpg",
+        image: "./images/new2.jpg",
         tag: "-$20",
         type: "woman",
         oldPrice: "$700.00",
